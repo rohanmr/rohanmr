@@ -32,7 +32,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanmr&show_icons=true&locale=en&layout=compact" alt="rohanmr" /></p> -->
 
 
-<img align="right" width="350" height='400' src="https://web3canvas.com/wp-content/uploads/2018/12/animation-delight-users.gif" alt="coding" />
+<img align="right" width="330" height='400' src="https://web3canvas.com/wp-content/uploads/2018/12/animation-delight-users.gif" alt="coding" />
 
 <p>&nbsp;<img align="center"   src="https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&locale=en" alt="rohanmr" /></p>
 
