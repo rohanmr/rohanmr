@@ -13,7 +13,7 @@
 
 - 📫 How to reach me maindarkarrohan11@gmail.com
 
-- ⚡ Fun fact I love to draw, playing pc Games and travel
+- ⚡ Fun fact I love to draw, Playing PC Games and Travel
 
 - 📘 2024 goal are to be MERN Stack developer.
 
