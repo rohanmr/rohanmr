@@ -1,7 +1,11 @@
 [![MasterHead ](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://rohanmr.io)
 
-<h1 align="center">Hi 👋, I'm Rohan a Student, Developer, And also Sometime Instructor!</h1>
-<h3 align="center">I'M Web Developer most friendly with Front-End Development</h3>
+
+
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=F7CB93&width=460&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohan+a+Student%2C+Developer%2C;+And+also++Sometime++Instructor!;I'M+Web+Developer+Most+Friendly;+With+Front-End+Development.+" alt="Typing SVG" /></a></a></h1>
+
+
 <img align="right" width="350" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmr&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmr" /> </p>
