@@ -4,7 +4,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=F7CB93&width=460&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohan+a+Student%2C+Developer%2C;+And+also++Sometime++Instructor!;I'M+Web+Developer+Most+Friendly;+With+Front-End+Development.+" alt="Typing SVG" /></a></a></h1>
 
 
-<img align="right" width="280" height='280' src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif" alt="coding" />
+<img align="right" width="290" height='280' src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmr&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmr" /> </p>
 
@@ -31,6 +31,6 @@
 
 <img align="right" width="280" height='420' src="https://web3canvas.com/wp-content/uploads/2018/12/animation-delight-users.gif" alt="coding" />
 
-<p>&nbsp;<img align="center"   src="https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&locale=en" alt="rohanmr" /></p>
+<p>&nbsp;<img align="center" width="480"  height='200'  src="https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&locale=en" alt="rohanmr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmr&" alt="rohanmr" /></p>
