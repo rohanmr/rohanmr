@@ -29,7 +29,9 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanmr&show_icons=true&locale=en&layout=compact" alt="rohanmr" /></p> -->
 
 
-<img align="right" width="280" height='440' src="https://web3canvas.com/wp-content/uploads/2018/12/animation-delight-users.gif" alt="coding" />
+<!--<img align="right" width="280" height='440' src="https://web3canvas.com/wp-content/uploads/2018/12/animation-delight-users.gif" alt="coding" />-->
+
+<img align="right" width="290" height='280' src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2918517.png" alt="coding" />
 
 <p>&nbsp;<img align="center" width="480"  height='200'  src="https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&locale=en" alt="rohanmr" /></p>
 
