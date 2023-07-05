@@ -44,6 +44,9 @@
 
 <img align="right" width="290" height='280' src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2918517.png" alt="coding" />
 
-<!--- <p>&nbsp;<img align="center" width="480"  height='200'  src="https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&locale=en" alt="rohanmr" /></p> -->
+[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&theme=dark)](https://github.com/rohanmr/github-readme-stats)
 
-<p><img align="center" width="490"  height='200' src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmr&" alt="rohanmr" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rohanmr&theme=dark)](https://git.io/streak-stats)
+
+
