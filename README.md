@@ -37,13 +37,13 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,bootstrap,tailwindcss,sass,redux,git,github,mysql,mongodb,postgresql,express,nodejs,c,python,django,postman,wordpress,mui,stackoverflow,vscode,)](https://skillicons.dev)
 
 <br/>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanmr&show_icons=true&locale=en&layout=compact" alt="rohanmr" /></p> -->
+
 
 
 <!--<img align="right" width="280" height='440' src="https://web3canvas.com/wp-content/uploads/2018/12/animation-delight-users.gif" alt="coding" />-->
 
 <img align="right" width="290" height='280' src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2918517.png" alt="coding" />
 
-<p>&nbsp;<img align="center" width="480"  height='200'  src="https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&locale=en" alt="rohanmr" /></p>
+<!--- <p>&nbsp;<img align="center" width="480"  height='200'  src="https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&locale=en" alt="rohanmr" /></p> -->
 
 <p><img align="center" width="490"  height='200' src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmr&" alt="rohanmr" /></p>
