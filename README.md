@@ -44,7 +44,7 @@
 
 <img align="right" width="290" height='280' src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2918517.png" alt="coding" />
 
-[![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&theme=dark)](https://github.com/rohanmr/github-readme-stats)
+<!--- [![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&theme=dark)](https://github.com/rohanmr/github-readme-stats)--->
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rohanmr&theme=dark)](https://git.io/streak-stats)
