@@ -42,7 +42,7 @@
 
 <!--<img align="right" width="280" height='440' src="https://web3canvas.com/wp-content/uploads/2018/12/animation-delight-users.gif" alt="coding" />-->
 
-<img align="right" width="290" height='280' src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2918517.png" alt="coding" />
+<!--<img align="right" width="290" height='280' src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2918517.png" alt="coding" />--->
 
 <!--- [![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&theme=dark)](https://github.com/rohanmr/github-readme-stats)--->
 
