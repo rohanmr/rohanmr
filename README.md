@@ -47,6 +47,6 @@
 <!--- [![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&theme=dark)](https://github.com/rohanmr/github-readme-stats)--->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rohanmr&theme=dark)](https://git.io/streak-stats)
+<!--- [![GitHub Streak](https://streak-stats.demolab.com?user=rohanmr&theme=dark)](https://git.io/streak-stats)--->
 
 
