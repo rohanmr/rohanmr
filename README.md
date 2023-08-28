@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on React JS and the Next JS!
 
-- 🌱 I’m currently learning Next js, React js, Node js, Express js, and Mongoose. 
+- 🌱 I’m currently learning React js, Next js, Node js, Express js, and Mongoose. 
 
 - 👯 I’m looking to collaborate with other Developers
 
