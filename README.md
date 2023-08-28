@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmr&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmr" /> </p>
 
-- 🔭 I’m currently working on React js and the Next js!
+- 🔭 I’m currently working on React JS and the Next JS!
 
 - 🌱 I’m currently learning Next js, React js, Node js, Express js, and Mongoose. 
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me maindarkarrohan11@gmail.com
 
-- ⚡ Fun fact I love to draw, Playing PC Games, and Travel
+- ⚡ Fun fact I love to draw, play PC Games, and Travel
 
 - 📘 2024 goal is to be a MERN Stack developer.
   <br/>
