@@ -35,7 +35,7 @@
 
 <h3 align="left">Languages and Tools:</h3><br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,bootstrap,tailwindcss,sass,styledcomponents,redux,git,github,netlify,vite,mysql,mongodb,postgresql,express,nodejs,c,python,django,postman,wordpress,mui,stackoverflow,vscode,bitbucket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,bootstrap,tailwindcss,sass,styledcomponents,redux,git,github,netlify,vite,mysql,mongodb,postgresql,express,nodejs,c,python,django,postman,wordpress,mui,stackoverflow,vscode,bitbucket,notion)](https://skillicons.dev)
 
 <br/>
 
