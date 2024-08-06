@@ -40,14 +40,26 @@
 <br/>
 
 
-
-<!--<img align="right" width="280" height='440' src="https://web3canvas.com/wp-content/uploads/2018/12/animation-delight-users.gif" alt="coding" />-->
-
-<!--<img align="right" width="290" height='280' src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-3454628-2918517.png" alt="coding" />--->
-
-<!--- [![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&theme=dark)](https://github.com/rohanmr/github-readme-stats)--->
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=rohanmr&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 
-<!--- [![GitHub Streak](https://streak-stats.demolab.com?user=rohanmr&theme=dark)](https://git.io/streak-stats)--->
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmr&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohanmr&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 
 
