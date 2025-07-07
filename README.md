@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=F7CB93&width=460&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohan+a+Student%2C+Developer%2C;+And+also++Sometime++Instructor!;I'M+Web+Developer+Most+Friendly;+With+Front-End+Development.+" alt="Typing SVG" /></a></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=F7CB93&width=460&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohan+Maindarkar+a+Student%2C+Developer%2C;+And+also++Sometime++Instructor!;I'M+Web+Developer+Most+Friendly;+With+Front-End+Development.+" alt="Typing SVG" /></a></a></h1>
 
 
 <img align="right" width="290" height='280' src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif" alt="coding" />
