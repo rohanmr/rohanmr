@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact I love to draw, play PC Games, and Travel
 
-- 📘 2024 goal is to be a MERN Stack developer.
+- 📘 2026 goal is to be a MERN Stack developer.
   <br/>
 
 <h3 align="left">Connect with me:</h3>
