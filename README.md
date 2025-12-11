@@ -40,9 +40,7 @@
 <br/>
 
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=rohanmr&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+
 
 
 ---
@@ -50,12 +48,18 @@
 
 
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=rohanmr&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmr&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
  
+# 📊 GitHub Stats:
 
+  ![](https://github-readme-stats.vercel.app/api?username=rohanmr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rohanmr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=rohanmr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=rohanmr&style=for-the-badge&color=orange" alt=""/>
